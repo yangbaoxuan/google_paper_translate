@@ -1,5 +1,6 @@
-用pdfminer项目实现对PDF的文字提取，借助于Selenium框架，通过GoogleDriver调用https://translate.google.cn/网站，实现翻译功能
-最后把翻译结果从网页中提取
+用pdfminer项目实现对PDF的文字提取，借助于Selenium框架，通过GoogleDriver调用
+https://translate.google.cn/
+实现翻译功能最后把翻译结果从网页中提取
 pip install pdfminer
 pip install Selenium 
 
