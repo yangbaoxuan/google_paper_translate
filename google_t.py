@@ -25,8 +25,6 @@ str=str.replace('\n\n','000000')
 str=str.replace('-\n','')
 str=str.replace('\n',' ')
 str=str.replace('000000','\n')
-
-str_len=len(str)
 pp=''
 strs=str.split('\n')
 stt=''
