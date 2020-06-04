@@ -1,8 +1,17 @@
+谷歌翻译论文
+
 用pdfminer项目实现对PDF的文字提取，借助于Selenium框架，通过GoogleDriver调用
 https://translate.google.cn/
-实现翻译功能最后把翻译结果从网页中提取
+实现翻译，最后把翻译结果从网页中提取，保存到txt文件，实现谷歌翻译论文的目的
+
+需要用到的工具
 pip install pdfminer
 pip install Selenium 
 
 https://github.com/euske/pdfminer
+https://github.com/SeleniumHQ/selenium
 
+需要下载工具
+googledriver
+http://npm.taobao.org/mirrors/chromedriver/
+https://chromedriver.storage.googleapis.com/index.html
